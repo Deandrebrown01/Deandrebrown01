@@ -1,11 +1,11 @@
-### Hi there 👋
+### 
 
 <h1 align="center">Hi 👋, I'm De'Andre</h1>
 <h3 align="center">I am from New York. I come from a very diverse background. I am somewhat of an Athlete and I love music <3</h3>
 
 - 🌱 I’m currently learning **about coding etc**
 
-- 💬 Ask me about **I am interested in clothes and fashion etc.**
+- 💬 Ask me about **My interest or anything idk.**
 
 - 📫 How to reach me **dbrown@brooklynsteamcenter.org**
 
